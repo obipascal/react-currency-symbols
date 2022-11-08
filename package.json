@@ -1,0 +1,17 @@
+{
+	"name": "react-currency-symbols",
+	"version": "1.0.0",
+	"description": "React currency symbol, this library works both on react js and react native projects",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"repository": "https://github.com/obipascal/react-currency-symbols.git",
+	"author": "Obi Pascal Banjuare",
+	"license": "MIT",
+	"private": false,
+	"devDependencies": {
+		"typescript": "^4.8.4"
+	}
+}
