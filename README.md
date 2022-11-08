@@ -7,7 +7,7 @@ To get you started run:
 
 ---
 
-### or for yarn users
+### Or for yarn lovers
 
 `yarn add @bilmapay/react-currency-symbols`
 
