@@ -3,11 +3,14 @@
 This package is an export of all world collection of currncy symbols, you can use this symbols on either react js or react native projects.
 
 To get you started run:
+
+---
+
 `npm install @bilmapay/react-currency-symbols`
 
 ---
 
-### Or for yarn lovers
+### For yarn lovers
 
 `yarn add @bilmapay/react-currency-symbols`
 
