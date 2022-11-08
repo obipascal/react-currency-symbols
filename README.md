@@ -4,7 +4,11 @@ This package is an export of all world collection of currncy symbols, you can us
 
 To get you started run:
 `npm install @bilmapay/react-currency-symbols`
-or for yarn users
+
+---
+
+### or for yarn users
+
 `yarn add @bilmapay/react-currency-symbols`
 
 # Documentation
