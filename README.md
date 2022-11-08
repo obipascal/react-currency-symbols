@@ -16,18 +16,18 @@ To get you started run:
 
 # Documentation
 
-There is nothing to document since the project is just an object export for example if you want to import and use a currency you can do so by import it like this:
+There is nothing much to document for example if you want to import and use a currency you can do so by import it into your project:
 
 ```js
 import { NAIRA_SIGN } from "@bilmapay/react-currency-symbols"
 
-// and then use it like thise
+// and then display the currency to your user
 
 export default function App() {
 	return <span className="currency">{NAIRA_SIGN}</span>
 }
 
-// For react Native
+// For react Native projects
 
 export default function App() {
 	return <Text style={styles.currency}>{NAIRA_SIGN}</Text>
