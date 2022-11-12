@@ -1,6 +1,6 @@
 {
 	"name": "@bilmapay/react-currency-symbols",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "React currency symbol, this library works both on react js and react native projects",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
